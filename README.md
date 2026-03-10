@@ -34,4 +34,7 @@ Le dashboard permet de :
 - Plotly
 - Web Scraping (BeautifulSoup)
 
-## Structure du projet
+## ## Dashboard en ligne
+
+Lien vers l'application :
+https://job-dashboard-wugayavfcty5zv7oqqq3ye.streamlit.app
